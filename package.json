@@ -2,7 +2,7 @@
   "name": "kg-metadata-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anas-elghafari.github.io/knowledge-graph-metadata-form",
+  "homepage": "https://MaastrichtU-IDS.github.io/knowledge-graph-metadata-form",
   "dependencies": {
     "@codemirror/lang-javascript": "^6.2.4",
     "@codemirror/legacy-modes": "^6.5.2",
